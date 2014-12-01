@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SAPP</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu_aplicacion">MenuAplicacion</string>
+    <string name="title_activity_lista">Lista</string>
+    <string name="title_activity_lista_alumnos">ListaAlumnos</string>
+    <string name="title_activity_menu_planificacion">MenuPlanificacion</string>
+    <string name="title_activity_resumen_clase">ResumenClase</string>
+
+</resources>
